@@ -1,0 +1,24 @@
+{
+  "type": 2,
+  "id": "1102192962055712860",
+  "name": "Evil Chat Bot",
+  "avatar": "bb71f469c158984e265093a81b3397fb",
+  "channel_id": "1111153350558363730",
+  "guild_id": "1102192962055712860",
+  "application_id": null,
+  "source_guild": {
+    "id": "56188498421476534",
+    "name": "Bless Tools",
+    "icon": "bb71f469c158984e265093a81b3397fb"
+  },
+  "source_channel": {
+    "id": "1111153350558363730",
+    "name": "globalchat"
+  },
+  "user": {
+    "username": "evilchatbot",
+    "discriminator": "7479",
+    "id": "1212513703673733140",
+    "avatar": "b004ec1740a63ca06ae2e14c5cee11f3",
+    "public_flags": 131328
+  }
